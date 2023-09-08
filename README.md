@@ -1,4 +1,4 @@
-### Hi there my name is Ben, an <a href="https://www.linkedin.com/in/benjamin-voyles-b7053a28b/">IT Professional</a>☺</h1>
+### Hi There! My Name is Ben, an <a href="https://www.linkedin.com/in/benjamin-voyles-b7053a28b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
